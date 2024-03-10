@@ -1,0 +1,14 @@
+4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+
+Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
+
+Primeira Etapa:
+    Ligar o primeiro interruptor e o segundo interruptor.
+    Agora, ir as salas e observar a lâmpada que ficou apagada.
+Segunda Etapa:
+    Desligue o segundo interruptor.
+    Entrar na sala das lâmpadas novamente.
+    Agora, observar as lâmpadas:
+        A lâmpada que ainda está acesa está conectada ao primeiro interruptor.
+        A lâmpada que estava apagada e agora está acesa está conectada ao segundo interruptor.
+        A lâmpada que permanece apagada está conectada ao terceiro interruptor.
